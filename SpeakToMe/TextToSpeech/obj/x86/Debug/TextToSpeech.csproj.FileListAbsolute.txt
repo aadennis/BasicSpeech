@@ -1,0 +1,16 @@
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\bin\x86\Debug\TextToSpeech.dll
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\bin\x86\Debug\TextToSpeech.pdb
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\bin\x86\Debug\TextToSpeech.pri
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\TextToSpeech.dll
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\TextToSpeech.pdb
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\priconfig.xml
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\priconfig.xml.intermediate
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\layout.resfiles
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\layout.resfiles.intermediate
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\resources.resfiles
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\resources.resfiles.intermediate
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\pri.resfiles
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\pri.resfiles.intermediate
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\qualifiers.txt
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\qualifiers.txt.intermediate
+c:\Users\administrator99\documents\visual studio 2015\Projects\App1\TextToSpeech\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

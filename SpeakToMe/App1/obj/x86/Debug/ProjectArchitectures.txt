@@ -1,0 +1,2 @@
+D:\GitHub\SpeakToMe\App1\UWPSpeech.csproj;x86
+D:\GitHub\SpeakToMe\TextToSpeech\TextToSpeech.csproj;x86
